@@ -1,0 +1,10 @@
+{
+  "config_version": 1,
+  "mirrors": {
+    "BraidLib01": {
+      "url": "git://github.com/PlayGround10/BraidLib01.git",
+      "branch": "main",
+      "revision": "1d3423d12e8e89496110d25f70e41f6639ff527a"
+    }
+  }
+}
